@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T14:05:30.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.1" etag="1my8mwQYHnz4c2JQxadW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T14:11:37.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="2JOymuh7Vo-Qu1z1RatW" version="21.2.1" type="github">
   <diagram name="Page-1" id="eBBKXrwx8veAiLtaqTG1">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y-f8oXr_-9cfSDebfGVU-1" value="bank" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-f8oXr_-9cfSDebfGVU-2" value="indvAcc" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-f8oXr_-9cfSDebfGVU-3" value="BizAcct" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-f8oXr_-9cfSDebfGVU-4" value="Employees" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-f8oXr_-9cfSDebfGVU-5" value="Deposits" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-f8oXr_-9cfSDebfGVU-6" value="Branches" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-f8oXr_-9cfSDebfGVU-7" value="WireTransfers" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-f8oXr_-9cfSDebfGVU-9" value="Withdrawals" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="275" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-f8oXr_-9cfSDebfGVU-10" value="Receipts" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-f8oXr_-9cfSDebfGVU-11" value="Addresses" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
